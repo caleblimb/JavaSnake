@@ -1,6 +1,6 @@
 # Overview
 This is a simple Snake game that runs with text for rendering purposes.
-[Video Demonstration](https://youtu.be/szm6zRhQfDs)
+* [Video Demonstration](https://youtu.be/szm6zRhQfDs)
 
 # Development Environment
 * Java 18
